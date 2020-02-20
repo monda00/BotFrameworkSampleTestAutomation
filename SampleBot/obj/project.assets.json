@@ -12552,11 +12552,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/admin/Documents/azure_bot/test-bot-sample/SampleBot/CoreBot.csproj",
+      "projectUniqueName": "/Users/admin/Documents/azure_bot/BotFrameworkSampleTestAutomation/SampleBot/CoreBot.csproj",
       "projectName": "CoreBot",
-      "projectPath": "/Users/admin/Documents/azure_bot/test-bot-sample/SampleBot/CoreBot.csproj",
+      "projectPath": "/Users/admin/Documents/azure_bot/BotFrameworkSampleTestAutomation/SampleBot/CoreBot.csproj",
       "packagesPath": "/Users/admin/.nuget/packages/",
-      "outputPath": "/Users/admin/Documents/azure_bot/test-bot-sample/SampleBot/obj/",
+      "outputPath": "/Users/admin/Documents/azure_bot/BotFrameworkSampleTestAutomation/SampleBot/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
